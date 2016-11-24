@@ -27,6 +27,12 @@ a:link {
 a:visited {
   color: green }
 address {
+<<<<<<< HEAD
   margin-top: 2em;
   padding-top: 2em;
   border-top: thin dotted }
+=======
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
+>>>>>>> eb16609c138116161b26fa067dd234fd9ea9fbab
